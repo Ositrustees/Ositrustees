@@ -119,6 +119,7 @@ Adjustment setting:
 Observation:
 Possible explanation:
 What still needs verification:
+```
 
 ## Research Documentation
 
