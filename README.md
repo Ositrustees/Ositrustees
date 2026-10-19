@@ -119,3 +119,44 @@ Adjustment setting:
 Observation:
 Possible explanation:
 What still needs verification:
+
+## Research Documentation
+
+Detailed methodology is maintained in the dedicated [Ositrustees Market Data Research Framework](https://github.com/Ositrustees/market-data-research-framework).
+
+The framework covers:
+
+- market-data comparison
+- source context and traceability
+- chart settings
+- timestamps and market sessions
+- historical adjustments
+- reproducible research notes
+- corporate information and source verification
+- observation versus interpretation
+
+The purpose of this documentation is to make analytical observations easier to review, reproduce and challenge.
+
+## Research Approach
+
+Ositrustees research workflows follow a simple principle:
+
+**Preserve the inputs that could materially change the interpretation.**
+
+That means keeping the source, timing, chart settings and relevant context connected to the observation rather than treating the final chart or value in isolation.
+
+A visible difference should be documented before it is explained.
+
+An explanation should remain separate until the supporting information has been checked.
+
+## Research. Compare. Verify.
+
+Ositrustees focuses on structured market-data research, source context and reproducible analytical workflows.
+
+Good research should leave a clear trail between the original source, the observation and the eventual interpretation.
+
+For detailed methodology and research templates, see the [Market Data Research Framework](https://github.com/Ositrustees/market-data-research-framework).
+
+---
+
+This profile provides educational and analytical documentation about Ositrustees research workflows and does not constitute investment advice.
